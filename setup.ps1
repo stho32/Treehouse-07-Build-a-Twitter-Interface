@@ -13,4 +13,4 @@ Set-Location ..
 npm install nodemon -g
 
 Write-Host "Project is ready to run."
-Write-Host "Type nodemon<enter> to start the app."
+Write-Host "Start run.ps1 to start the app."
