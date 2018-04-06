@@ -7,7 +7,7 @@
     - [x] Followers https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/overview
     - [x] Direct Messages https://developer.twitter.com/en/docs/direct-messages/sending-and-receiving/api-reference
 
-  - [ ] Read the tutorial linked in the project resources about how to create a Twitter application. (https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/)
+  - [x] Read the tutorial linked in the project resources about how to create a Twitter application. (https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/)
 
   - [ ] Set up a new Express project in the provided app.js file.
 
