@@ -16,7 +16,7 @@
     - [ ] A package.json file that includes your project’s dependencies.
     - [ ] A Jade/Pug template file to display tweets and messages
     - [ ] A config.js file that will contain your application’s authentication code
-    - [ ] A .gitignore file to add your config. js and node_modules/ folder to. This will prevent these files from being committed and pushed to github
+    - [x] A .gitignore file to add your config. js and node_modules/ folder to. This will prevent these files from being committed and pushed to github
 
   - The following files are provided:
 
